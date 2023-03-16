@@ -80,3 +80,16 @@ ___
 * [x] Task 1
 * [x] Task 2
 * [ ] Task 3
+
+## Syntax
+ using html code
+```html
+<img src="path/to/.png file" width= 100 heiight =100 >
+```
+example:
+<img src="/images/showcase.svg" >
+or basic command in .md 
+```
+![alt text](../../img/rows.png)
+```
+![image](/images/funndamentals.svg)
