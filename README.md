@@ -84,10 +84,12 @@ ___
 ## Syntax
  using html code
 ```html
-<img src="path/to/.png file" width= 100 heiight =100 >
+<img src="path/to/.png file" width= 100 height =100 >
 ```
 example:
-<img src="/images/showcase.svg" >
+
+<img src="images/showcase.svg" width3100 height=300 >
+
 or basic command in .md 
 ```
 ![alt text](../../img/rows.png)
