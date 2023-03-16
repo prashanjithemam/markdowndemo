@@ -88,7 +88,7 @@ ___
 ```
 example:
 
-<img src="images/showcase.svg" width3100 height=300 >
+<img src="images/showcase.svg" width=300 height=300 >
 
 or basic command in .md 
 ```
